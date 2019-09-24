@@ -1,0 +1,9 @@
+title: BabylonJS Project
+plan:
+- title: Welcome
+  statement: markdowns/welcome.md
+projects:
+  babylon:
+    root: /babylon-project
+    runner:
+      name: bash
